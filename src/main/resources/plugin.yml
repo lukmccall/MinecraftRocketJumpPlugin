@@ -1,0 +1,9 @@
+name: RocketJump
+version: 0.0.1
+main: com.cswild.minecraft.RocketJump.RocketJump
+commands:
+  RocketJump:
+    description: RocketJump!!!
+    aliases: [rj,rc]
+    usage: |
+      &2/rc&f - Rocket Jump

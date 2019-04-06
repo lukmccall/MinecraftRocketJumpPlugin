@@ -1,0 +1,8 @@
+default:
+  name: "&4Wyrzutnia Rakiet"
+  lorem:
+  - "To jest wyrzutnia"
+  - "&1I jest super"
+  fire_rate: 0.4
+  rockets: "default_rockets"
+  material: BLAZE_ROD
